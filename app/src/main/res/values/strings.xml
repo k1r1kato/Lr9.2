@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lr9</string>
+    <string name="app_title">Добро пожаловать!</string>
+    <string name="date_label">Дата: %s</string>
+</resources>

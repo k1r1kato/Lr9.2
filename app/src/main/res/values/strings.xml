@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">Lr9</string>
-    <string name="app_title">Добро пожаловать!</string>
-    <string name="date_label">Дата: %s</string>
+    <string name="app_name">Демонстрация TextView</string>
+    <string name="selectable_text">Этот текст можно выделить и скопировать (долгое нажатие)</string>
+    <string name="links_text">
+        Сайт: https://google.com\n
+        Email: test@example.com\n
+        Телефон: +1234567890
+    </string>
+    <string name="spannable_text">Разный стиль: жирный, красный, подчеркнутый</string>
+    <string name="multiline_text">Это многострочный текст, который будет ограничен тремя видимыми строками, даже если содержимое больше. Попробуйте добавить больше текста, чтобы увидеть эффект ограничения.</string>
+    <string name="date_prefix">Дата и время:</string>
+    <string name="update_button">Обновить данные</string>
+    <string name="data_updated_message">Данные обновлены</string>
 </resources>
